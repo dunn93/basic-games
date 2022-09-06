@@ -17,3 +17,13 @@ print(friends)
 # can sort, count, reverse list, copy, etc.
 
 print(friends.index("kevin"))
+
+# lists
+# if you want last item in list you ca do [-1] this is good because you don't need to know the length of list
+# slicing
+# appending- will add entire list into a single index of list
+# extend- adds individual indexed items into list
+# pop- deletes last index and returns it
+# sorted- doesn't alter the OG list
+# join- turning list into strings
+# split- will let you define ' , ' and will parse out those and create a list
